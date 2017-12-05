@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "一个小梦想"
-subtitle:   "我是小萌新"
+title:      "今天，是幸福的一天"
+subtitle:   "一枚小萌新"
 date:       2017-12-05 19:30:00
 author:     "Chocolove"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
@@ -10,7 +10,7 @@ catalog:    true
 tags:
     - live
 ---
-> 愿一日，有女同车，颜如舜华 
+> 愿一日，有女同车，颜如舜华。 
 
 * 每天晚上12点之前必须睡觉
 * 每天至少半小时学习时间，尽量能将所学内容形成blog，不要半途而废
