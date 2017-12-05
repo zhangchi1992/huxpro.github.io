@@ -1,15 +1,22 @@
 ---
 layout:     post
-title:      "今天，是幸福的一天"
-subtitle:   ""
+title:      "一个小梦想"
+subtitle:   "我是小萌新"
 date:       2017-12-05 19:30:00
 author:     "Chocolove"
-header-img: ""
+header-img: "img/post-bg-nextgen-web-pwa.jpg"
+header-mask: 0.3
+catalog:    true
+tags:
+    - live
 ---
-> 知我者,谓我心忧,不知我者,谓我何求
+> 愿一日，有女同车，颜如舜华 
 
 * 每天晚上12点之前必须睡觉
 * 每天至少半小时学习时间，尽量能将所学内容形成blog，不要半途而废
-* 尽量周末能运动
+* 周末尽量能运动
 * 不要玩游戏，累了弹会ukulele，音乐使人放松
-* 放松自己，不要给自己太大的压力，温柔地对待这个世界，毕竟世界的美好多于黑暗
+* 放松自己，不要给自己太大的压力
+* 温柔地对待这个世界
+
+
