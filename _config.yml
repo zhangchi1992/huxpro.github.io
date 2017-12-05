@@ -5,8 +5,6 @@ header-img: img/home-bg.jpg
 email: 369297171@qq.com
 description: "BigData，CloudComputing | 这里是 @Chocolove 的个人博客，与你一起发现更大的世界。"
 keyword: "Chocolove，hadoop，spark"
-url: "https://zhangchi1992.me"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
