@@ -11,6 +11,8 @@ tags:
     - hadoop
     - 大数据
 ---
+
+
 # Hadoop
 ## HDFS体系结构
 HDFS采用了主从（Master/Slave）结构模型，一个HDFS集群是由一个NameNode和若干个DataNode组成的。其中NameNode作为主服务器，管理文件系统的命名空间和客户端对文件的访问操作；集群中的DataNode管理存储的数据。NameNode执行文件系统的命名操作，比如打开、关闭、重命名文件或目录等，它也负责数据块到具体DataNode的映射。DataNode负责处理文件系统客户端的文件读写请求，并在NameNode的同意调度下进行数据块的创建、删除和复制工作。
